@@ -1,0 +1,288 @@
+2019-09-24 21:29:05,982  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:29:06,013  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:29:09,761  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:29:10,175  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:29:17,120  INFO [main] nopCommerceSDET:94 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:29:20,155  INFO [main] nopCommerceSDET:101 - ********* Clicking on customer main menu **************
+2019-09-24 21:29:22,294  INFO [main] nopCommerceSDET:108 - ********* Clicking on customer sub menu **************
+2019-09-24 21:29:34,916  INFO [main] nopCommerceSDET:145 - ********* Saving customer details **************
+2019-09-24 21:29:39,107  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:29:42,151  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:29:42,153  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:29:44,922  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:29:45,318  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:29:51,379  INFO [main] nopCommerceSDET:94 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:29:54,412  INFO [main] nopCommerceSDET:101 - ********* Clicking on customer main menu **************
+2019-09-24 21:29:56,514  INFO [main] nopCommerceSDET:108 - ********* Clicking on customer sub menu **************
+2019-09-24 21:29:57,856  INFO [main] nopCommerceSDET:160 - ********* Searching customer details by Email **************
+2019-09-24 21:30:01,568  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:30:04,727  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:30:04,730  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:30:07,464  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:30:07,916  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:30:14,057  INFO [main] nopCommerceSDET:68 - ************* Login Passed *****************
+2019-09-24 21:30:17,072  INFO [main] nopCommerceSDET:77 - ************* clciking on logout *****************
+2019-09-24 21:30:21,708  INFO [main] nopCommerceSDET:68 - ************* Login Passed *****************
+2019-09-24 21:30:24,719  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:43:04,275  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:43:04,388  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:43:07,442  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:43:07,629  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:43:15,948  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:43:18,970  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:43:21,240  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:43:36,019  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:43:41,304  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:43:51,860  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:43:51,863  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:43:55,183  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:43:55,423  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:44:08,100  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:44:11,119  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:44:13,411  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:44:15,250  INFO [main] nopCommerceSDET:189 - ********* Searching customer details by Email **************
+2019-09-24 21:44:19,031  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:44:26,264  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:44:26,275  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:44:28,285  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:44:28,498  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:44:34,533  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:44:37,546  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:44:42,088  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:44:45,098  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:53:34,775  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:53:34,953  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:53:38,470  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:53:38,747  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:53:46,860  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:53:49,879  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:53:52,158  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:54:05,797  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:54:11,194  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:54:19,851  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:54:19,854  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:54:22,091  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:54:22,275  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:54:27,912  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:54:30,927  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:54:35,514  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:54:38,525  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:57:25,321  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:57:25,386  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:57:29,100  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:57:29,556  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:57:36,132  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:57:39,161  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:57:41,302  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:57:55,252  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:57:59,807  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:58:03,099  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:58:03,103  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:58:05,783  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:58:06,162  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:58:10,970  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:58:14,058  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:58:18,564  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:58:21,580  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:00:00,634  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:00:00,743  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:00:06,151  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:00:06,603  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:00:29,387  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:00:32,518  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:00:34,702  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:00:50,194  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:00:55,005  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:00:58,326  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:00:58,327  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:01:02,171  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:01:02,615  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:01:10,604  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:01:13,696  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:01:19,540  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:01:22,560  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:06:50,066  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:06:50,120  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:06:54,835  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:06:55,272  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:07:02,089  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:07:05,112  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:07:07,213  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:07:20,301  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:07:24,646  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:07:27,888  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:07:27,890  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:07:31,890  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:07:32,340  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:07:38,918  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:07:42,037  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:07:46,555  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:07:49,582  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:11:20,734  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:11:20,779  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:11:24,655  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:11:25,030  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:11:31,080  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:11:34,105  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:11:36,208  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:11:49,406  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:11:53,593  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:11:56,891  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:11:56,893  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:12:00,762  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:12:01,181  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:12:07,503  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:12:10,523  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:12:15,036  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:12:18,051  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2021-12-12 22:49:45,076  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:49:45,142  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:49:47,913  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:49:48,434  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:49:49,940  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:49:49,943  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:49:52,464  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:49:52,718  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:50:52,895  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:50:52,947  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:50:55,492  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:50:55,995  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:50:57,445  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:50:57,447  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:50:59,921  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:51:00,192  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:53:44,051  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:53:44,117  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:53:46,677  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:53:47,291  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:56:40,561  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:56:40,608  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:56:43,167  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:56:43,641  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:56:51,090  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-12 22:56:54,118  INFO [main] nopCommerceSDET:110 - ************* clciking on logout *****************
+2021-12-12 22:57:00,919  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-12 22:57:03,937  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-12 22:57:38,250  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:57:38,304  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:57:40,990  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:57:41,590  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:57:47,988  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-12 22:57:51,011  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-12 22:57:52,616  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-12 22:57:52,618  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-12 22:57:55,152  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-12 22:57:55,416  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-12 22:58:02,132  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-12 22:58:05,190  INFO [main] nopCommerceSDET:110 - ************* clciking on logout *****************
+2021-12-12 22:58:12,251  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-12 22:58:15,273  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 08:05:26,505  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 08:05:26,557  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 08:05:29,209  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 08:05:29,678  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 08:05:35,159  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 08:05:38,213  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 08:05:39,891  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 08:05:39,904  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 08:05:42,486  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 08:05:42,764  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 08:05:45,732  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 08:05:48,755  INFO [main] nopCommerceSDET:110 - ************* clciking on logout *****************
+2021-12-13 08:05:53,509  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 08:05:56,521  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 22:04:36,016  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:04:36,071  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:04:38,776  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:04:39,361  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:04:47,146  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:04:50,223  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:04:51,992  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:04:51,995  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:04:54,645  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:04:54,908  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:05:01,777  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 22:05:04,800  INFO [main] nopCommerceSDET:110 - ************* clciking on logout *****************
+2021-12-13 22:05:10,736  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 22:05:13,744  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 22:07:17,270  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:07:17,323  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:07:29,289  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:07:29,387  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:07:32,019  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:07:32,481  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:07:39,766  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:07:42,998  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:08:51,947  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:08:52,001  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:08:54,644  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:08:55,139  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:09:02,157  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:09:05,183  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:14:41,197  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:14:41,247  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:14:43,845  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:14:44,398  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:14:51,032  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:14:54,089  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:14:57,323  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-13 22:20:54,682  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:20:54,740  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:20:57,696  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:20:57,976  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:21:04,163  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:21:07,212  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:21:10,408  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-13 22:21:26,920  INFO [main] nopCommerceSDET:178 - ********* Saving customer details **************
+2021-12-13 22:21:31,477  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 22:23:12,679  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:23:12,725  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:23:15,333  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:23:15,806  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:23:22,182  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:23:25,288  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:23:28,529  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-13 22:23:46,183  INFO [main] nopCommerceSDET:178 - ********* Saving customer details **************
+2021-12-13 22:23:50,662  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 22:25:51,848  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:25:51,898  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:25:54,550  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:25:55,155  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:26:02,284  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:26:05,322  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:26:08,418  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-13 22:26:11,750  INFO [main] nopCommerceSDET:193 - ********* Searching customer details by Email **************
+2021-12-13 22:26:15,373  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 22:26:16,988  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 22:26:16,990  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 22:26:19,524  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 22:26:20,062  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 22:26:25,979  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-13 22:26:29,118  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-13 22:26:32,291  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-13 22:26:35,709  INFO [main] nopCommerceSDET:212 - ********* Searching customer details by Name **************
+2021-12-13 22:26:39,193  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 23:08:21,627  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 23:08:21,670  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 23:08:24,311  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 23:08:24,616  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 23:08:31,943  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 23:08:34,973  INFO [main] nopCommerceSDET:110 - ************* clciking on logout *****************
+2021-12-13 23:08:40,014  INFO [main] nopCommerceSDET:101 - ************* Login Passed *****************
+2021-12-13 23:08:43,021  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************
+2021-12-13 23:08:44,513  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 23:08:44,517  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-13 23:08:47,120  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-13 23:08:47,658  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-13 23:08:49,298  INFO [main] nopCommerceSDET:95 - ************* Login failed *****************
+2021-12-13 23:14:47,774  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-13 23:14:47,819  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-14 12:44:13,863  INFO [main] nopCommerceSDET:66 - ************* Launching Browser *****************
+2021-12-14 12:44:13,941  INFO [main] nopCommerceSDET:72 - ************* Opening URL  *****************
+2021-12-14 12:44:16,854  INFO [main] nopCommerceSDET:79 - ************* Prvding user and password *****************
+2021-12-14 12:44:17,228  INFO [main] nopCommerceSDET:86 - ************* click on login *****************
+2021-12-14 12:44:24,169  INFO [main] nopCommerceSDET:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 12:44:27,196  INFO [main] nopCommerceSDET:134 - ********* Clicking on customer main menu **************
+2021-12-14 12:44:30,457  INFO [main] nopCommerceSDET:141 - ********* Clicking on customer sub menu **************
+2021-12-14 12:44:48,726  INFO [main] nopCommerceSDET:178 - ********* Saving customer details **************
+2021-12-14 12:44:53,231  INFO [main] nopCommerceSDET:117 - ************* cloding browser *****************

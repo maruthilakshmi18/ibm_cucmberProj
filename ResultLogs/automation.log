@@ -1,0 +1,54 @@
+2021-12-14 12:49:25,231  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 12:49:25,287  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 12:49:28,372  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 12:49:28,695  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 12:49:35,144  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 12:49:38,223  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 12:49:41,460  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 12:49:57,793  INFO [main] nopCommerceDemoRun:178 - ********* Saving customer details **************
+2021-12-14 12:50:02,943  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
+2021-12-14 12:52:10,408  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 12:52:10,466  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 12:52:12,947  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 12:52:13,271  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 12:52:19,977  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 12:52:23,011  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 12:52:26,179  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 12:52:44,948  INFO [main] nopCommerceDemoRun:178 - ********* Saving customer details **************
+2021-12-14 12:52:50,191  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
+2021-12-14 12:56:59,383  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 12:56:59,439  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 12:57:02,081  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 12:57:02,409  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 12:57:09,244  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 12:57:12,318  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 12:57:15,431  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 12:57:19,040  INFO [main] nopCommerceDemoRun:193 - ********* Searching customer details by Email **************
+2021-12-14 12:57:22,450  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
+2021-12-14 12:57:23,949  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 12:57:23,951  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 12:57:26,506  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 12:57:26,803  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 12:57:33,558  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 12:57:36,579  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 12:57:39,715  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 12:57:43,301  INFO [main] nopCommerceDemoRun:212 - ********* Searching customer details by Name **************
+2021-12-14 12:57:46,979  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
+2021-12-14 13:01:48,073  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 13:01:48,165  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 13:01:50,652  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 13:01:50,978  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 13:01:55,845  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 13:01:58,872  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 13:02:02,084  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 13:02:04,530  INFO [main] nopCommerceDemoRun:193 - ********* Searching customer details by Email **************
+2021-12-14 13:02:08,173  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
+2021-12-14 13:02:09,882  INFO [main] nopCommerceDemoRun:66 - ************* Launching Browser *****************
+2021-12-14 13:02:09,886  INFO [main] nopCommerceDemoRun:72 - ************* Opening URL  *****************
+2021-12-14 13:02:12,956  INFO [main] nopCommerceDemoRun:79 - ************* Prvding user and password *****************
+2021-12-14 13:02:13,260  INFO [main] nopCommerceDemoRun:86 - ************* click on login *****************
+2021-12-14 13:02:20,114  INFO [main] nopCommerceDemoRun:127 - ********* Verifying Dashboad page title after login successful **************
+2021-12-14 13:02:23,271  INFO [main] nopCommerceDemoRun:134 - ********* Clicking on customer main menu **************
+2021-12-14 13:02:26,458  INFO [main] nopCommerceDemoRun:141 - ********* Clicking on customer sub menu **************
+2021-12-14 13:02:29,066  INFO [main] nopCommerceDemoRun:212 - ********* Searching customer details by Name **************
+2021-12-14 13:02:32,507  INFO [main] nopCommerceDemoRun:117 - ************* cloding browser *****************
